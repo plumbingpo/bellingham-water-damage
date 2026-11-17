@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bellinghamrestoration.com/sitemap.xml
